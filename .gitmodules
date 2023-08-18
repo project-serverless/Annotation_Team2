@@ -1,0 +1,3 @@
+[submodule "Pictato"]
+	path = Pictato
+	url = https://github.com/Pictato/Pictato
